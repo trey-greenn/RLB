@@ -1,0 +1,84 @@
+[
+    {
+      "entity": "Apple",
+      "document_type": [1, 2, 3],
+      "presence": [2022, 2023, 2034]
+    },
+    {
+      "entity": "Rockefeller",
+      "document_type": [1, 2, 3],
+      "presence": [2022, 2023, 2034]
+    },
+    {
+      "entity": "Andrew Carnegie",
+      "document_type": [1, 2, 3],
+      "presence": [2022, 2023, 2034]
+    },
+    {
+      "entity": "Jeff Bezos",
+      "document_type": [1, 2, 3],
+      "presence": [2022, 2023, 2034]
+    },
+    {
+        "entity": "Microsoft",
+        "document_type": [1, 2, 3],
+        "presence": [2022, 2023, 2034]
+      },
+      {
+        "entity": "Amazon/AWS",
+        "document_type": [1, 2, 3],
+        "presence": [2022, 2023, 2034]
+      },
+      {
+        "entity": "Warren Buffet",
+        "document_type": [1, 2, 3],
+        "presence": [2022, 2023, 2034]
+      },
+      {
+        "entity": "Walmart",
+        "document_type": [1, 2, 3],
+        "presence": [2022, 2023, 2034]
+      },
+      {
+        "entity": "Goldman Sachs",
+        "document_type": [1, 2, 3],
+        "presence": [2022, 2023, 2034]
+      },
+      {
+        "entity": "JP Morgan",
+        "document_type": [1, 2, 3],
+        "presence": [2022, 2023, 2034]
+      },
+      {
+        "entity": "Paule Graham",
+        "document_type": [1, 2, 3],
+        "presence": [2022, 2023, 2034]
+      },
+      {
+        "entity": "Richard Branson",
+        "document_type": [1, 2, 3],
+        "presence": [2022, 2023, 2034]
+      },
+      {
+        "entity": "William Boeing",
+        "document_type": [1, 2, 3],
+        "presence": [2022, 2023, 2034]
+      },
+      {
+        "entity": "Walt Disney",
+        "document_type": [1, 2, 3],
+        "presence": [2022, 2023, 2034]
+      },
+      {
+        "entity": "Palantir",
+        "document_type": [1, 2, 3],
+        "presence": [2022, 2023, 2034]
+      },
+      {
+        "entity": "Joe Lonsdale",
+        "document_type": [1, 2, 3],
+        "presence": [2022, 2023, 2034]
+      }
+      
+      
+  ]

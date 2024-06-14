@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 }
+
+td{
+  background-color: gray;
+  color: black;
+  text-align: center;
+}
+
